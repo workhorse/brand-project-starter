@@ -1,0 +1,11 @@
+{
+  "font": {
+    "display": { "$type": "fontFamily", "$value": ["Georgia", "serif"], "$description": "Headlines. Placeholder." },
+    "text": { "$type": "fontFamily", "$value": ["system-ui", "sans-serif"], "$description": "Body copy. Placeholder." }
+  },
+  "size": {
+    "$type": "dimension",
+    "body": { "$value": { "value": 1, "unit": "rem" }, "$description": "Body text." },
+    "headline": { "$value": { "value": 2.5, "unit": "rem" }, "$description": "Page headline." }
+  }
+}

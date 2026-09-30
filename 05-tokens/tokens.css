@@ -1,0 +1,15 @@
+/* The same values as the JSON files. Change both in the same commit. */
+:root {
+  --color-ink: #1A1A1A;
+  --color-surface: #FFFFFF;
+  --color-action: #3333CC;
+
+  --font-display: Georgia, serif;
+  --font-text: system-ui, sans-serif;
+  --size-body: 1rem;
+  --size-headline: 2.5rem;
+
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 3rem;
+}

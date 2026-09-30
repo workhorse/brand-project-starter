@@ -1,0 +1,14 @@
+{
+  "$description": "How the brand sounds. AI tools read this before writing any copy. Edit it yourself; a tool proposes changes in voice-queue.md.",
+  "tone": [],
+  "characterTagline": "",
+  "characterTraits": [],
+  "rules": [],
+  "doAndDont": [
+    { "do": "", "dont": "" }
+  ],
+  "preferredTerms": {},
+  "bannedTerms": [],
+  "revision": 0,
+  "changelog": []
+}

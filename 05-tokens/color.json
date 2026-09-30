@@ -1,0 +1,17 @@
+{
+  "color": {
+    "$type": "color",
+    "ink": {
+      "$value": { "colorSpace": "srgb", "components": [0.1, 0.1, 0.1], "hex": "#1A1A1A" },
+      "$description": "Body text and the mark on light grounds. Placeholder: replace with yours."
+    },
+    "surface": {
+      "$value": { "colorSpace": "srgb", "components": [1, 1, 1], "hex": "#FFFFFF" },
+      "$description": "The page ground. Placeholder."
+    },
+    "action": {
+      "$value": { "colorSpace": "srgb", "components": [0.2, 0.2, 0.8], "hex": "#3333CC" },
+      "$description": "The one call to action per view. Placeholder."
+    }
+  }
+}

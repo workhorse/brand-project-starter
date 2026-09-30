@@ -1,0 +1,37 @@
+# System
+.DS_Store
+Thumbs.db
+
+# AI tool personal files
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Design source files: keep in Figma or your drive, link them in a README
+*.psd
+*.psb
+*.ai
+*.indd
+*.idml
+*.fig
+*.sketch
+*.xd
+*.afdesign
+*.afphoto
+*.procreate
+
+# Video and audio: upload where the assignment says, link in LOG.md
+*.mp4
+*.mov
+*.m4v
+*.webm
+*.wav
+*.aif
+
+# Archives and exports that balloon
+*.zip
+*.dmg
+
+# If you add a build step later
+node_modules/
+dist/
+.next/

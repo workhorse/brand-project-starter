@@ -1,0 +1,5 @@
+/* Every value comes from tokens.css. No hex codes, no pixel sizes here. */
+body { margin: 0; background: var(--color-surface); color: var(--color-ink); font-family: var(--font-text); font-size: var(--size-body); }
+main { max-width: 40rem; margin: 0 auto; padding: var(--space-large) var(--space-medium); }
+h1 { font-family: var(--font-display); font-size: var(--size-headline); margin: 0 0 var(--space-medium); }
+.action { display: inline-block; margin-top: var(--space-medium); padding: var(--space-small) var(--space-medium); background: var(--color-action); color: var(--color-surface); text-decoration: none; }
