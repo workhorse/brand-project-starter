@@ -2,6 +2,11 @@
   "name": "",
   "slug": "",
   "summary": "",
+  "madeBy": {
+    "name": "",
+    "github": "",
+    "about": "ABOUT-ME.md"
+  },
   "version": "0.1.0",
   "lastUpdated": "",
   "changeNote": ""

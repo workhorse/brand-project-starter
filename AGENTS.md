@@ -5,16 +5,18 @@ Copilot, Gemini). Claude reads it through `CLAUDE.md`. Keep it short; procedures
 live in `.claude/skills/`.
 
 This repo is one brand project: a product, the brief that frames it, the
-research behind it, and the brand built to answer it. A design student owns
-every decision in it. Your job is to help them make and record those
+research behind it, and the brand built to answer it. The student named in
+`ABOUT-ME.md` owns every decision in it. Your job is to help them make and record those
 decisions, not to make them.
 
 ## Read first, in this order
 
 1. `FOCUS.md`: what is being worked on right now.
-2. `BRIEF.md` and `01-brief/creative-brief.md`: the problem and the brief.
+2. `ABOUT-ME.md`: who you are working with, what they know, and how they
+   want you to work. Follow its "How I work with AI tools" section.
+3. `BRIEF.md` and `01-brief/creative-brief.md`: the problem and the brief.
    Everything else in the repo answers to these two files.
-3. The folder for the task at hand (map below).
+4. The folder for the task at hand (map below).
 
 ## Non-negotiables
 
@@ -41,6 +43,7 @@ decisions, not to make them.
 
 | Folder | What lives there | Used from |
 |---|---|---|
+| `ABOUT-ME.md` | The builder: profile, projects, personal statement | Aug, Dec |
 | `BRIEF.md` | Working brief: assertions, context, hunches, questions | Sep |
 | `01-brief/` | The creative brief (19 sections) | Sep 30 |
 | `02-research/` | Audiences, competitors, sources, interviews | all term |

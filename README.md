@@ -12,7 +12,7 @@ empty or with a template to fill in.
    create it.
 2. In GitHub Desktop: **File > Clone repository**, pick the new repo, clone it.
 3. On GitHub, open **Settings > Collaborators** and add your instructor.
-4. Fill in `FOCUS.md` (three lines), commit, push.
+4. Fill in `ABOUT-ME.md` and `FOCUS.md` (three lines), commit, push.
 
 ## Already have a repo?
 
@@ -20,7 +20,7 @@ Move your work into the new one, then archive the old one.
 
 | Your file | Goes to |
 |---|---|
-| `statement.md` | `statement.md` (replace the template) |
+| `statement.md` | the Personal statement section of `ABOUT-ME.md` |
 | `BRIEF.md` | `BRIEF.md` (replace the template) |
 | `LOG.md` | `LOG.md` (keep your entries under the format block) |
 | Your creative brief | paste the answers into `01-brief/creative-brief.md`, PDF to `decks/` |
@@ -34,6 +34,7 @@ history stays in the old repo; link it in `LOG.md`.
 
 | Folder | What goes in it | When |
 |---|---|---|
+| `ABOUT-ME.md` | Who you are, what you bring, how tools should work with you, your projects, your personal statement | now, and Dec 7 |
 | `BRIEF.md` | The working brief: problem, objective, context, questions | September |
 | `01-brief/` | The creative brief, nineteen sections | Sep 30 |
 | `02-research/` | Audiences, competitors, sources, interviews | all term |
@@ -50,7 +51,8 @@ history stays in the old repo; link it in `LOG.md`.
 ## Working with AI tools
 
 Open the repo folder in the tool (Claude Code, Cursor, Codex, Copilot,
-Gemini). The tool reads `AGENTS.md` first; Claude Code reads it through
+Gemini). The tool reads `AGENTS.md` first, then `ABOUT-ME.md` to learn who
+you are and how you like to work; Claude Code reads it through
 `CLAUDE.md`. That file tells it the rules of this repo:
 
 - The brief is the source: every decision names the brief section it answers.
