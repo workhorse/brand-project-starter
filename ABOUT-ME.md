@@ -30,7 +30,7 @@ rest.
 
 - **The kind of work I want to be doing in two years:** 
 - **What this project should prove about me:** 
-- **What I want to get better at this term:** 
+- **What I want to get better at this semester:** 
 
 ## How I work with AI tools
 

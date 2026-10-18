@@ -2,7 +2,7 @@
 
 Fill it in here, in markdown, so the brief sits beside the work it governs and every AI tool reads it. If you drafted it in Word, paste your answers in under each heading. Commit the PDF you turned in to `decks/` with the date in its name.
 
-The nineteen sections from Monday's class, in the same order. What counts is that every section has an answer, not how many pages it fills. Mark every guess with a question mark. For a finished brief to compare against, see [the Resume Place brief](https://meaninglayer.com/handouts/ART-418-example-brief-resume-place.pdf).
+The nineteen sections of a creative brief, in order. Every section needs an answer; length does not count. Mark every guess with a question mark. For a finished brief to compare against, see [the Resume Place brief](https://meaninglayer.com/handouts/ART-418-example-brief-resume-place.pdf).
 
 Working copy to download and fill in: [CREATIVE-BRIEF-simple.docx](https://meaninglayer.com/handouts/CREATIVE-BRIEF-simple.docx). The longer version, with where each section comes from: [the full template](https://meaninglayer.com/course/business-of-design/handout/creative-brief-template).
 

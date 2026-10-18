@@ -1,0 +1,7 @@
+{
+  "$description": "Text and ground pairs the brand actually uses. node scripts/check.mjs fails if a pair is below its minimum: 4.5 for body text, 3 for large text and marks (WCAG 2).",
+  "pairs": [
+    { "text": "color.ink", "on": "color.surface", "min": 4.5 },
+    { "text": "color.surface", "on": "color.action", "min": 4.5 }
+  ]
+}

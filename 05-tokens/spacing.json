@@ -3,6 +3,7 @@
     "$type": "dimension",
     "small": { "$value": { "value": 0.5, "unit": "rem" }, "$description": "Inside a component." },
     "medium": { "$value": { "value": 1, "unit": "rem" }, "$description": "Between elements." },
-    "large": { "$value": { "value": 3, "unit": "rem" }, "$description": "Between sections." }
+    "large": { "$value": { "value": 3, "unit": "rem" }, "$description": "Between sections." },
+    "measure": { "$value": { "value": 40, "unit": "rem" }, "$description": "The widest a column of text gets, so lines stay easy to read." }
   }
 }

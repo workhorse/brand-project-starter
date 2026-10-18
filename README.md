@@ -37,14 +37,15 @@ history stays in the old repo; link it in `LOG.md`.
 | `ABOUT-ME.md` | Who you are, what you bring, how tools should work with you, your projects, your personal statement | now, and Dec 7 |
 | `BRIEF.md` | The working brief: problem, objective, context, questions | September |
 | `01-brief/` | The creative brief, nineteen sections | Sep 30 |
-| `02-research/` | Audiences, competitors, sources, interviews | all term |
+| `02-research/` | Audiences, competitors, sources, interviews | all semester |
 | `03-explorations/` | Moodboard index, brand themes, brand language | Oct 7, Oct 14 |
 | `04-brand/` | The direction, the rules, the voice, the mark | Oct 19 to Nov 4 |
 | `05-tokens/` | Exact values: color, type, spacing | Oct 21 |
 | `06-book/` | The brand book | Nov 16, Dec 2 |
 | `07-site/` | The landing page, built from the tokens | Nov 18 to Dec 2 |
 | `decks/` | Every PDF you present or turn in, date first | every crit |
-| `docs/` | Writing check, decisions, templates | all term |
+| `docs/` | Writing check, decisions, templates | all semester |
+| `scripts/` | `node scripts/check.mjs` checks tokens, contrast, the site and the rules | every commit |
 | `LOG.md` | What you decided and what the machine did | every session |
 | `FOCUS.md` | What you are working on right now | every session |
 

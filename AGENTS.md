@@ -46,15 +46,37 @@ decisions, not to make them.
 | `ABOUT-ME.md` | The builder: profile, projects, personal statement | Aug, Dec |
 | `BRIEF.md` | Working brief: assertions, context, hunches, questions | Sep |
 | `01-brief/` | The creative brief (19 sections) | Sep 30 |
-| `02-research/` | Audiences, competitors, sources, interviews | all term |
+| `02-research/` | Audiences, competitors, sources, interviews | all semester |
 | `03-explorations/` | Moodboard (links + credits), themes, language | Oct 7, Oct 14 |
-| `04-brand/` | The direction, voice, written rules, the mark | Oct 19 to Nov 4 |
+| `04-brand/` | The direction, voice, written rules, the mark, and tests of the rules on a model | Oct 19 to Nov 4 |
 | `05-tokens/` | Exact values as DTCG JSON, plus `tokens.css` | Oct 21 |
 | `06-book/` | The brand book | Nov 16, Dec 2 |
 | `07-site/` | The landing page, built from the tokens | Nov 18 to Dec 2 |
 | `decks/` | Dated PDFs of every deck and board | every crit |
-| `docs/` | Writing rules, decisions, templates | all term |
+| `docs/` | Writing rules, decisions, templates | all semester |
 | `LOG.md` | Decisions and what the machine did | every session |
+
+## Commands
+
+- `node scripts/check.mjs`: checks the system against its own rules. Every
+  token has a type and a description, `tokens.css` matches the JSON, the
+  contrast pairs in `05-tokens/contrast.json` pass, the site types no values
+  by hand, and every rule has Do, Because, Right and Wrong. Run it before
+  every commit that touches `04-brand/`, `05-tokens/` or `07-site/`, and
+  fix what it reports.
+
+## Skills
+
+Procedures for this repo, one folder each in `.claude/skills/`. Tools other
+than Claude Code should read the `SKILL.md` file named here and follow it.
+
+| Skill | Use it when |
+|---|---|
+| `.claude/skills/write-rules/SKILL.md` | Writing the direction or a rule |
+| `.claude/skills/trace-to-brief/SKILL.md` | Checking a decision against the brief |
+| `.claude/skills/write-in-voice/SKILL.md` | Writing any copy for the brand |
+| `.claude/skills/check/SKILL.md` | Reading prose before it ships |
+| `.claude/skills/log-the-run/SKILL.md` | Ending any session that changed work |
 
 ## How to work
 
