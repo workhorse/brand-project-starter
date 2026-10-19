@@ -14,6 +14,11 @@ empty or with a template to fill in.
 3. On GitHub, open **Settings > Collaborators** and add your instructor.
 4. Fill in `ABOUT-ME.md` and `FOCUS.md` (three lines), commit, push.
 
+The `.md` files are plain text. Open the repo folder in any text editor to
+write in them; [VS Code](https://code.visualstudio.com) is free, and in
+GitHub Desktop **Repository > Open in Visual Studio Code** opens the folder.
+You do not need an AI tool to use this repo.
+
 ## Already have a repo?
 
 Move your work into the new one, then archive the old one.
@@ -62,11 +67,12 @@ you are and how you like to work; Claude Code reads it through
 - Copy is written in the voice in `04-brand/voice.json`.
 - Every session that used a tool ends with a line in `LOG.md`.
 
-In Claude Code, four skills in `.claude/skills/` do the common jobs. Ask for
+In Claude Code, five skills in `.claude/skills/` do the common jobs. Ask for
 them by name or just describe the job:
 
 | Skill | What it does |
 |---|---|
+| `write-rules` | Asks you about one decision and writes your answers into a rule's four parts: Do, Because, Right, Wrong |
 | `write-in-voice` | Loads your voice and brief before writing any copy |
 | `check` | Reads a draft against `docs/CHECK.md` and lists what to fix |
 | `log-the-run` | Writes the `LOG.md` entry for the session |

@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.0 (unreleased)
+## 0.2.0 (2026-10-19)
 
 - `node scripts/check.mjs`: checks tokens, `tokens.css`, contrast pairs, the
   site's CSS and every rule's four parts. No dependencies.
